@@ -14,4 +14,8 @@ https://docs.oracle.com/cd/E14373_01/install.32/e13366/overview.htm#BABHCAFC
 - Choose "Reuse Application ID  61817721119058 From Export File"
 - When asked to install the supporting objects, select "Yes" (this will install the data model, images and demo data)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 
